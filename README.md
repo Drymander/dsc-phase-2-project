@@ -57,11 +57,11 @@ The following features were removed due to multicollinearity or insignificance b
 
 Our final model has an adjusted R-squared of 0.798, meaning our model has a predictive quality of roughly 79.8%.  
 
-[model](./images/model.png)
+![model](./images/model.png)
 
 In our QQ plot, we can see that our distribution is mostly normal, but it might be worth removing more outliers in the future.  Our homoscedasticity shape shows is mostly cone like.
 
-[qq](./images/qq.png)
+![qq](./images/qq.png)
 
 ## Interpretation of Coefficients
 
